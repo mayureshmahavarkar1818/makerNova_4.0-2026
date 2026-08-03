@@ -1,21 +1,84 @@
-# makerNova 4.0
+# MakerNova 4.0
 
-Welcome to the **makerNova 4.0** repository! 
+A structured repository for learning **Electronics** and **PCB Design**. The content is organized into weekly modules, with each week containing notes, resources, examples, and practical exercises.
 
-## About This Project
-*(Briefly describe what makerNova 4.0 is, its main goal, and what problem it solves. For example: "makerNova 4.0 is an open-source hardware project designed for...")*
+---
 
 ## Repository Structure
-* **`Schematic_1(Buck converter)`**: Contains the schematic files, PCB layouts, and design documents specifically for the buck converter module.
-* **`README.md`**: Project documentation and overview.
 
-## Hardware Details
-This project includes custom hardware design. Current modules include:
-* **Buck Converter**: *(Add details about the input/output voltage, current rating, and the main IC used in your buck converter design).*
+```text
+MakerNova-4.0/
+│
+├── Week-01/
+├── Week-02/
+├── Week-03/
+├── Week-04/
+├── Week-05/
+├── Week-06/
+├── Week-07/
+├── Week-08/
+│
+├── Resources/
+├── Datasheets/
+├── Images/
+└── README.md
+```
 
-## Getting Started
-To view or modify the project files on your local machine:
+# Week 01 – Electronics Fundamentals
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/mayureshmahavarkar1818/makerNova_4.0-2026.git](https://github.com/mayureshmahavarkar1818/makerNova_4.0-2026.git)
+This module introduces the basic concepts required to begin working with electronic circuits and PCB design.
+
+## Topics Covered
+
+* Introduction to Electronics
+* Voltage, Current, and Resistance
+* Ohm's Law
+* Power and Energy
+* Passive Components
+
+  * Resistors
+  * Capacitors
+  * Inductors
+* Basic Circuit Symbols
+* Series and Parallel Circuits
+* Introduction to Electronic Measurements
+
+## Learning Objectives
+
+By the end of this module, you should be able to:
+
+* Understand fundamental electrical quantities.
+* Identify common electronic components.
+* Read basic circuit diagrams.
+* Perform simple circuit calculations.
+* Use basic measuring instruments.
+
+---
+
+## Resources
+
+The **Week-01** directory may include:
+
+* Notes
+* Presentation Slides
+* Reference Material
+* Example Circuits
+* Practice Exercises
+
+---
+
+## Prerequisites
+
+No prior knowledge of electronics is required. A basic understanding of mathematics is helpful but not mandatory.
+
+---
+
+## Contributing
+
+If you find an error or have suggestions for improving the content, feel free to open an issue or submit a pull request.
+
+---
+
+## License
+
+This repository is intended for educational purposes.

@@ -64,21 +64,3 @@ The **Week-01** directory may include:
 * Reference Material
 * Example Circuits
 * Practice Exercises
-
----
-
-## Prerequisites
-
-No prior knowledge of electronics is required. A basic understanding of mathematics is helpful but not mandatory.
-
----
-
-## Contributing
-
-If you find an error or have suggestions for improving the content, feel free to open an issue or submit a pull request.
-
----
-
-## License
-
-This repository is intended for educational purposes.
